@@ -1,0 +1,25 @@
+NET "ms1_pin" LOC = T8;
+NET "ms2_pin" LOC = R6;
+NET "ms3_pin" LOC = T5;
+NET "a4988_reset_pin" LOC = R5;
+NET "a4988_sleep_pin" LOC = C2;
+NET "clk" LOC = T9;
+NET "step_pin" LOC = C1;
+NET "dir_pin" LOC = B1;
+NET "reset" LOC = L14;
+NET "dir_switch_in" LOC = F12;
+NET "enable_switch_in" LOC = G12;
+NET "a4988_enable_pin" LOC = N7;
+
+NET "a4988_reset_pin" IOSTANDARD = LVCMOS33;
+NET "a4988_sleep_pin" IOSTANDARD = LVCMOS33;
+NET "clk" IOSTANDARD = LVCMOS33;
+NET "dir_pin" IOSTANDARD = LVCMOS33;
+NET "dir_switch_in" IOSTANDARD = LVCMOS33;
+NET "ms1_pin" IOSTANDARD = LVCMOS33;
+NET "ms2_pin" IOSTANDARD = LVCMOS33;
+NET "ms3_pin" IOSTANDARD = LVCMOS33;
+NET "reset" IOSTANDARD = LVCMOS33;
+NET "step_pin" IOSTANDARD = LVCMOS33;
+NET "a4988_enable_pin" IOSTANDARD = LVCMOS33;
+NET "enable_switch_in" IOSTANDARD = LVCMOS33;
