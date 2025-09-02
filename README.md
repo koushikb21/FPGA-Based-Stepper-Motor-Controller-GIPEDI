@@ -95,6 +95,11 @@ Custom A4988 Carrier PCB KiCad files are also included.
 
 -----
 
-## 📜 License
+## Intellectual Property Notice
 
-This project is released under the **MIT License** – see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project was developed as part of the **GIPEDI Program at IIT Delhi** (B2-2025-3).  
+All intellectual property rights are owned by **IIT Delhi** under the GIPEDI program.
+
+This repository is provided for **academic and demonstration purposes only**.  
+Any reproduction, distribution, or use of this work requires prior written permission from **IIT Delhi**.
+
