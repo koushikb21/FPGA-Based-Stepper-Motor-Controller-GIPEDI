@@ -6,13 +6,13 @@ This repository contains the Verilog-based implementation of a **precision FPGA-
 Custom A4988 Carrier PCB KiCad files are also included.
 -----
 
-## 🔧 Overview
+## Overview
 
 The project controls a **NEMA17 stepper motor** via an **A4988 microstepping driver**, using Verilog HDL on a **Xilinx Spartan-3 (XC3S200-FT256)** FPGA. It achieves **1/16 microstepping**, delivering **0.1125° per step** resolution with deterministic, real-time control.
 Custom A4988 Carrier PCB KiCad files are also included.
 -----
 
-## ✨ Features
+## Features
 
   - FPGA-based control using **Verilog HDL**
   - **Clock Divider** module for precise STEP signal generation
@@ -24,7 +24,7 @@ Custom A4988 Carrier PCB KiCad files are also included.
 
 -----
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
   - **Hardware**: Xilinx Spartan-3 (XC3S200-FT256), NEMA17 Stepper Motor, A4988 Driver
   - **Software**: Verilog HDL, Xilinx ISE, iVerilog, GTKWave, KiCad
@@ -32,7 +32,7 @@ Custom A4988 Carrier PCB KiCad files are also included.
 
 -----
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -46,7 +46,7 @@ Custom A4988 Carrier PCB KiCad files are also included.
 
 -----
 
-## 🚀 Getting Started
+## Getting Started
 
 1.  Clone the repository:
 
@@ -70,7 +70,7 @@ Custom A4988 Carrier PCB KiCad files are also included.
 
 -----
 
-## 📊 Results
+## Results
 
   * Achieved **0.1125° angular resolution** with 1/16 microstepping.
   * Verified **STEP/DIR signal integrity** via testbench and logic analyzer.
@@ -78,7 +78,7 @@ Custom A4988 Carrier PCB KiCad files are also included.
 
 -----
 
-## 📌 Future Work
+## Future Work
 
   * Extend to **linear actuator system** with lead screw.
   * Add **custom softcore processor** for user interfacing.
@@ -86,7 +86,7 @@ Custom A4988 Carrier PCB KiCad files are also included.
 
 -----
 
-## 👨‍💻 Author
+## Author
 
 **Koushik Bhattacharya**
 
